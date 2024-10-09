@@ -1,0 +1,1 @@
+Auction Hub is an online platform designed to facilitate auctions. The platform enables users to create auctions for collectibles and goods. Bidders can easily browse through active auctions, and place bids. Auction Hub is built using web technologies, including React and Node.js, and utilizes MongoDB to store auction and user information
